@@ -1,0 +1,11 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Node (only needed if you use a local dev server / tooling)
+node_modules/
+npm-debug.log*
