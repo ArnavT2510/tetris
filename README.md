@@ -6,8 +6,8 @@ A complete, polished Tetris game for the browser. One HTML file, no build step, 
 
 ## Play
 
+- **Online:** <https://arnavt2510.github.io/tetris/>
 - **Locally:** open `index.html` in any modern browser.
-- **Online:** enable GitHub Pages (see below) and play from the published URL.
 
 ## Features
 
